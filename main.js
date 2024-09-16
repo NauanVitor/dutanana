@@ -1,0 +1,1 @@
+alert("o burro clicou no botão")
