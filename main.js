@@ -1,4 +1,4 @@
 const button= document.querySelector ('button');
 button.onclick =function(){
-alert("o burro clicou no botão")
+alert("o teacher clicou no botão")
 }
